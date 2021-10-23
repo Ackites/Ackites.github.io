@@ -276,8 +276,8 @@ body {
 
 .cmd3 {
     position: relative;
-    top: -280px;
-    right: 100px;
+    top: -100px;
+    right: 200px;
 }
 
 .cmd3 .cmdText .ul {
