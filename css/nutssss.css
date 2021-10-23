@@ -270,6 +270,29 @@ body {
     color: rgb(0, 132, 255);
 }
 
+
+
+
+
+.cmd3 {
+    position: relative;
+    top: -280px;
+    right: 100px;
+}
+
+.cmd3 .cmdText .ul {
+    margin-left: 15px;
+}
+
+.cmd3 .cmdText .ul a {
+    text-decoration: none;
+    color: rgb(88, 89, 92);
+}
+
+.cmd3 .cmdText .ul a:hover {
+    color: rgb(0, 132, 255);
+}
+
 #footer {
     width: 100%;
     color: white;
